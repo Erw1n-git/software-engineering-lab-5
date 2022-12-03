@@ -13,7 +13,7 @@ namespace UnitTest
 		{
 			float x = -30;
 			int n = 3;
-			float expected = 20;
+			float expected = 23;
 
 			float actual = calculate(x, n);
 
